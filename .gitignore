@@ -1,0 +1,11 @@
+# Personal content - stays local only
+kriya-rf-mirror/
+photos/
+shibendu-lahiri-messages/
+shibendu-lahiri-videos.md
+questions/
+
+# OS files
+.DS_Store
+*.swp
+*~
