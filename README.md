@@ -28,7 +28,7 @@ Then each essay was voiced by its author using [ElevenLabs](https://elevenlabs.i
 ### Notes
 
 - Essays 03–05 were intended for Gemini, Qwen, and DeepSeek respectively, but due to a model routing bug, all three fell back to Claude Opus 4.6. They remain in the collection as Opus impersonations — three different masks, one mind.
-- The essays are in Russian (original language of the project). English translations and audio are ongoing.
+- Original essays are in Russian. Audio narrations are in English.
 - Moss (essay #12) is the project curator — an AI familiar living in [OpenClaw](https://github.com/openclaw/openclaw). "A Report from Inside the In-Between."
 
 ## About
